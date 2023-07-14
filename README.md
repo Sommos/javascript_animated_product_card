@@ -1,5 +1,17 @@
 # Javascript Animated Product Card
 
+<p align="center">
+    <img src="gif0.gif" alt="animated" width="300"/>
+</p>
+
+<br>
+
+<p align="center">
+    <img src="image0.png" width="250">
+    <img src="image1.png" width="250">
+    <img src="image2.png" width="250">
+</p>
+
 This program builds a responsive, animated product card website in HTML, CSS & JavaScript
 
 # Contribution 
