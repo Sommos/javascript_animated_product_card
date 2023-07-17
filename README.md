@@ -14,7 +14,7 @@
 
 This program builds a responsive, animated product card website in HTML, CSS & JavaScript.
 
-This has been built into a web application accessible here: https://sommos.github.io/javascript_animated_product_card/
+This has been built into a website accessible here: https://sommos.github.io/javascript_animated_product_card/
 
 # Contribution 
 
